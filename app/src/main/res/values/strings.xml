@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="data_string">[
+ {
+ \"name\": \"Sierra\",
+ \"imageUrl\": \"http://thewirecutter.com/wp-content/uploads/2016/09/sierra-blog-lede-630.jpg\",
+ \"title\": \"Place\",
+ \"time\": \"1501577379000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Happen\",
+ \"text\": \"You have to make it happen\",
+ \"title\": \"Quote\",
+ \"time\": \"1501404579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Manali\",
+ \"imageUrl\": \"https://www.holidify.com/images/compressed/4709.jpg\",
+ \"title\": \"Place\",
+ \"time\": \"1501404579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Greenhouse\",
+ \"text\": \"Who loves a garden loves a greenhouse too\",
+ \"title\": \"Quote\",
+ \"time\": \"1501404579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Spiti Valley\",
+ \"imageUrl\": \"https://www.holidify.com/images/compressed/349.jpg\",
+ \"title\": \"Place\",
+ \"text\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",
+ \"time\": \"1501231779000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Narendra Modi\",
+ \"imageUrl\": \"https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_400x400.jpg\",
+ \"title\": \"People\",
+ \"text\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",
+ \"time\": \"1501231779000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Manali\",
+ \"imageUrl\": \"https://www.holidify.com/images/compressed/4709.jpg\",
+ \"title\": \"Place\",
+ \"time\": \"1501231779000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Greenhouse\",
+ \"text\": \"Who loves a garden loves a greenhouse too\",
+ \"title\": \"Quote\",
+ \"time\": \"1500972579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Spiti Valley\",
+ \"imageUrl\": \"https://www.holidify.com/images/compressed/349.jpg\",
+ \"title\": \"Place\",
+ \"text\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",
+ \"time\": \"1500972579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ },
+ {
+ \"name\": \"Narendra Modi\",
+ \"imageUrl\": \"https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_400x400.jpg\",
+ \"title\": \"People\",
+ \"text\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",
+ \"time\": \"1500972579000\",
+ \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum, lectus non rhoncus tincidunt,quam lectus lacinia nunc, vitae egestas felis ligula a eros. Nulla ac ex finibus, sodales nisl ac, convallis urna. Donecornare aliquam dapibus. Ut aliquam massa ex, a maximus lectus condimentum vitae. Donec rutrum aliquetullamcorper. Suspendisse sit amet pulvinar tellus.\"
+ }
+]</string>
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+    <string name="desc">Description</string>
+</resources>
